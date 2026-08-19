@@ -222,12 +222,3 @@ Official MedSAM repository:
 https://github.com/bowang-lab/MedSAM
 
 ---
-
-## Internship
-
-**IEEE SMC Student Branch Chapter**  
-**Kalyani Government Engineering College**
-
-Research Internship Programme 2026
-
-**Intern:** Sudhanshu Kumar
